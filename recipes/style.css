@@ -1,0 +1,77 @@
+@supports (display: flex) {
+    @media screen and (min-width: 900px) {
+      article {
+        display: flex;
+      }
+    }
+  }
+
+
+#banana-main-img, #waffles-main-img  {
+    height: auto;
+    width: 350px;
+    box-shadow: 10px 10px lightblue;
+}
+
+h2 {
+    color: rgba(75, 164, 238, 0.993);
+}
+
+/* Title imported text*/
+  .nf-r2 {
+    font-family: Lora, serif;
+    font-size: 1.8em;
+    line-height: 1em;
+    font-weight: 300;
+    font-style: italic;
+  }
+
+  .nf-r3 {
+    font-family: Lora, serif;
+    font-size: 4em;
+    line-height: 1em;
+    font-weight: 500;
+    font-style: italic;
+    margin-left: 30px;
+
+    color: rgba(75, 164, 238, 0.993);
+  }
+
+  .header img {
+    width: 65px;
+    height: auto;
+
+    position: absolute;
+    left: 396px;
+    top: 40px;
+    
+}
+
+body {
+    font-family: "Century Gothic";
+    background: rgba(169, 228, 255, 0.2);
+}
+
+p {
+    font-size: 14px;
+}
+
+ul {
+    list-style-position: inside;
+    list-style-type: circle;
+    font-size: 14px;
+}
+
+ol {
+    list-style-position: inside;
+    font-size: 14px;
+}
+
+.small-space-w, .small-space-1 {
+    margin-top: 5px;
+}
+
+a.five:link {color:#000000;text-decoration:none;}
+a.five:visited {color:#0000ff;text-decoration:none;}
+a.five:hover {text-decoration:underline;}
+
