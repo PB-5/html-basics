@@ -1,3 +1,10 @@
+html {
+  box-sizing: border-box;
+}
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
 @supports (display: flex) {
     @media screen and (min-width: 900px) {
       article {
@@ -5,7 +12,6 @@
       }
     }
   }
-
 
 #banana-main-img, #waffles-main-img  {
     height: auto;
@@ -33,6 +39,7 @@ h2 {
     font-weight: 500;
     font-style: italic;
     margin-left: 30px;
+    margin-bottom:20px;
 
     color: rgba(75, 164, 238, 0.993);
   }
@@ -71,6 +78,7 @@ ol {
     margin-top: 5px;
 }
 
+/* added effects for index page */
 a.five:link {color:#000000;text-decoration:none;}
 a.five:visited {color:#0000ff;text-decoration:none;}
 a.five:hover {text-decoration:underline;}
