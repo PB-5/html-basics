@@ -2,4 +2,4 @@
 
 ### Foundations
 
-The basic html pages of a recipe created for 'The Odin Project' Foundation [assignment](https://www.theodinproject.com/lessons/foundations-recipes).
+Basic html pages of recipes created for 'The Odin Project' Foundation [assignment](https://www.theodinproject.com/lessons/foundations-recipes).
