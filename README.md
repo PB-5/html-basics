@@ -1,4 +1,4 @@
-# Odin PROJECT: RECIPES
+# Odin Project: Recipes
 
 ### Foundations
 
