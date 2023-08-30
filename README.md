@@ -15,3 +15,13 @@ The goal of this repo is to re-familiarize myself with the fundamentals of HTML 
 
 # Links
 - [Live Demo](https://pb-5.github.io/recipes-html-basics/)
+
+# Screenshots
+
+## Main Page
+
+![Main Page](./images/index.jpg)
+
+## Recipe Page
+
+![Recipe Page](./images/recipe.jpg)
