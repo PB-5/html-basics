@@ -1,5 +1,17 @@
-# Odin Project: Recipes
+# Odin Recipes Project
 
 ### Foundations
+The goal of this repo is to re-familiarize myself with the fundamentals of HTML and CSS. A noninclusive list of topics covered are as follows:
 
-Basic html pages of recipes created for 'The Odin Project' Foundation [assignment](https://www.theodinproject.com/lessons/foundations-recipes).
+- HTML boilerplate & common elements
+- External CSS
+  - ID, Class, and Type Selectors
+  - Inheritance & Specificity
+  - Grouping & Chaining Selectors
+  - Descendant Combinator(s)
+  - Rule Order (Cascade)
+- Git Fundamentals
+  - Atomic commits
+
+# Links
+- [Live Demo](https://pb-5.github.io/recipes-html-basics/)
